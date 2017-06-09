@@ -1,0 +1,70 @@
+{
+  "омлет": [
+    {
+      "ingridient_name": "яйца",
+      "measure": "шт",
+      "quantity": 2
+    },
+    {
+      "ingridient_name": "молоко",
+      "measure": "мл",
+      "quantity": 50
+    },
+    {
+      "ingridient_name": "помидор",
+      "measure": "гр",
+      "quantity": 100
+    }
+  ],
+  "салат": [
+    {
+      "ingridient_name": "помидоры",
+      "measure": "гр",
+      "quantity": 100
+    },
+    {
+      "ingridient_name": "огурцы",
+      "measure": "гр",
+      "quantity": 100
+    },
+    {
+      "ingridient_name": "масло",
+      "measure": "мл",
+      "quantity": 100
+    },
+    {
+      "ingridient_name": "лук",
+      "measure": "шт",
+      "quantity": 1
+    }
+  ],
+  "стейк": [
+    {
+      "ingridient_name": "говядина",
+      "measure": "гр",
+      "quantity": 300
+    },
+    {
+      "ingridient_name": "специи",
+      "measure": "гр",
+      "quantity": 5
+    },
+    {
+      "ingridient_name": "масло",
+      "measure": "мл",
+      "quantity": 10
+    }
+  ],
+  "яичница": [
+    {
+      "ingridient_name": "яйца",
+      "measure": "шт",
+      "quantity": 2
+    },
+    {
+      "ingridient_name": "помидор",
+      "measure": "гр",
+      "quantity": 100
+    }
+  ]
+}
